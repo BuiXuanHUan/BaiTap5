@@ -1,0 +1,10 @@
+C:\Users\PC MSI\source\repos\Baitap5\Baitap5\bin\Debug\Baitap5.exe.config
+C:\Users\PC MSI\source\repos\Baitap5\Baitap5\bin\Debug\Baitap5.exe
+C:\Users\PC MSI\source\repos\Baitap5\Baitap5\bin\Debug\Baitap5.pdb
+C:\Users\PC MSI\source\repos\Baitap5\Baitap5\obj\Debug\Baitap5.csproj.AssemblyReference.cache
+C:\Users\PC MSI\source\repos\Baitap5\Baitap5\obj\Debug\Baitap5.Form1.resources
+C:\Users\PC MSI\source\repos\Baitap5\Baitap5\obj\Debug\Baitap5.Properties.Resources.resources
+C:\Users\PC MSI\source\repos\Baitap5\Baitap5\obj\Debug\Baitap5.csproj.GenerateResource.cache
+C:\Users\PC MSI\source\repos\Baitap5\Baitap5\obj\Debug\Baitap5.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\source\repos\Baitap5\Baitap5\obj\Debug\Baitap5.exe
+C:\Users\PC MSI\source\repos\Baitap5\Baitap5\obj\Debug\Baitap5.pdb
